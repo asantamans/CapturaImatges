@@ -1,0 +1,61 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="2" />
+      <entry action="$Delete" count="7" />
+      <entry action="$Paste" count="2" />
+      <entry action="$SelectAll" count="5" />
+      <entry action="$Undo" count="144" />
+      <entry action="Android Profiler" count="1" />
+      <entry action="Android.RunAndroidAvdManager" count="23" />
+      <entry action="Android.RunAndroidSdkManager" count="1" />
+      <entry action="ChangesView.GroupBy" count="6" />
+      <entry action="CheckinFiles" count="2" />
+      <entry action="CheckinProject" count="1" />
+      <entry action="CloseProject" count="1" />
+      <entry action="CodeCompletion" count="22" />
+      <entry action="CopyPaths" count="1" />
+      <entry action="DialogOkAction Intro" count="9" />
+      <entry action="EditorBackSpace" count="1009" />
+      <entry action="EditorChooseLookupItem" count="41" />
+      <entry action="EditorCopy" count="14" />
+      <entry action="EditorCut" count="13" />
+      <entry action="EditorDelete" count="4" />
+      <entry action="EditorDeleteLine" count="5" />
+      <entry action="EditorDown" count="179" />
+      <entry action="EditorDownWithSelection" count="1" />
+      <entry action="EditorEnter" count="98" />
+      <entry action="EditorLeft" count="357" />
+      <entry action="EditorLeftWithSelection" count="36" />
+      <entry action="EditorNextWord" count="36" />
+      <entry action="EditorPageDown" count="1" />
+      <entry action="EditorPaste" count="90" />
+      <entry action="EditorRight" count="409" />
+      <entry action="EditorRightWithSelection" count="119" />
+      <entry action="EditorSplitLine" count="1" />
+      <entry action="EditorStartNewLine" count="1" />
+      <entry action="EditorTab" count="56" />
+      <entry action="EditorUp" count="182" />
+      <entry action="EditorUpWithSelection" count="3" />
+      <entry action="Exit" count="1" />
+      <entry action="FileChooser.NewFolder" count="1" />
+      <entry action="FindInPath" count="1" />
+      <entry action="Git.Add" count="2" />
+      <entry action="Git.Branches" count="1" />
+      <entry action="Git.Clone" count="4" />
+      <entry action="Git.Configure.Remotes" count="4" />
+      <entry action="Git.CreateNewBranch" count="1" />
+      <entry action="Git.Init" count="8" />
+      <entry action="Git.Pull" count="4" />
+      <entry action="Git.Rebase" count="7" />
+      <entry action="Git.Reset" count="2" />
+      <entry action="Github.Open.In.Browser" count="1" />
+      <entry action="Github.Rebase" count="1" />
+      <entry action="Github.Share" count="13" />
+      <entry action="GoogleLogin.LoginService" count="1" />
+      <entry action="GotoDeclaration" count="1" />
+      <entry action="GotoLine" count="2" />
+      <entry action="HideAllWindows" count="3" />
+      <entry action="MakeGradleModule" count="1" />
+      <entry action="MakeGradleProject" count="45" />
+      <entry action="NewClass
